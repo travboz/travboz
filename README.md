@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @travboz
 - 👀 I’m interested in physiotherapy, motorcycles, fishing and cocktail bartendng.
-- 🌱 I’m currently learning to become a software engineer and physiotherapist.
-- 💞️ I’m looking to collaborate on services that can help change the way people live.
+- 🌱 I’m on the tail end of a degree in Computer Science at UNSW.
+- 💞️ I’m looking to collaborate on tools that can help change the way people live.
 - 📫 How to reach me: Shoot me an email at travis.bozic@hotmail.com
 
 <!---
