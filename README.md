@@ -1,9 +1,3 @@
-- 👀 Interested in Rust development, object oriented paradigms in Java, artificial intelligence applications with Python, and motorcycling. 
-- 🕯 On the tail end of a degree in Computer Science at UNSW.
-- 💡 I’m looking to collaborate on tools that can help change the way people live.
-- 📫 How to reach me: Please feel free to contact me at travis.bozic@hotmail.com
-
-
 As a recent Computer Science graduate, I have transitioned from exploring diverse
 academic fields to a dedicated focus on software engineering. Throughout my time at
 university and in my role as a Cocktail Bartender, I have honed my skills in creating
@@ -24,6 +18,11 @@ refining innovative products or services. My goal is to further my skills in a
 collaborative engineering environment, focusing on solutions that enhance
 productivity and user experience.
 
+
+- 👀 Interested in Rust development, object oriented paradigms in Java, artificial intelligence applications with Python, and motorcycling. 
+- 🕯 On the tail end of a degree in Computer Science at UNSW.
+- 💡 I’m looking to collaborate on tools that can help change the way people live.
+- 📫 How to reach me: Please feel free to contact me at travis.bozic@hotmail.com
 <!---
 travboz/travboz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
