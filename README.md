@@ -19,7 +19,7 @@ collaborative engineering environment, focusing on solutions that enhance
 productivity and user experience.
 
 
-- 👀 Interested in Rust development, object oriented paradigms in Java, artificial intelligence applications with Python, and motorcycling. 
+- 👀 Focused on Back-End Development.
 - 🕯 Completed a degree in Computer Science at UNSW.
 - 💡 I’m looking to collaborate on tools that can help change the way people live.
 - 📫 How to reach me: Please feel free to contact me at travis.bozic@hotmail.com
