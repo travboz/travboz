@@ -4,8 +4,8 @@ travboz/travboz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- UNSW Computer Science grad
-- Spent most of my time bartending in Sydney bars
-- Focused on Go and Backend dev
+- UNSW Computer Science Graduate
+- Experienced Bartender
+- Focused on Go and Backend Engineering
 - AWS Cloud Practitioner and currently completing Solutions Architect Associate cert
 - 📫 Reach out! Please feel free to contact me at travis.bozic@hotmail.com
